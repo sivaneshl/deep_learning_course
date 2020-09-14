@@ -1,0 +1,4 @@
+[0818/010807.522:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0818/011143.414:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0818/011143.472:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0818/132045.077:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
